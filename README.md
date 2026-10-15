@@ -177,6 +177,7 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 - [MCP Audit Gateway](https://github.com/elang2/mcp-audit-gateway) - Proxy that keeps a signed, hash-chained audit trail of agent tool calls.
 - [mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) - Proxy with a web page that shows each message between client and server.
 - [MCPSpend](https://github.com/andreisirbu91-lab/MCPSpend) - Proxy that attributes tool-call cost per tool, project and customer.
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
 
 ## Server managers and runtimes
 
